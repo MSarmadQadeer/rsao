@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "27138640357",
+    "firebase_url": "https://rasao-c9c18-default-rtdb.firebaseio.com",
+    "project_id": "rasao-c9c18",
+    "storage_bucket": "rasao-c9c18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27138640357:android:28ce5990195d41c20b070c",
+        "android_client_info": {
+          "package_name": "com.example.rsao"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW3o3SmWbVmB8n_vyXxXVbLJ-3Su9bZbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27138640357:android:9ad3c88070a2c9630b070c",
+        "android_client_info": {
+          "package_name": "com.sarmad.ridesharing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW3o3SmWbVmB8n_vyXxXVbLJ-3Su9bZbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27138640357:android:1fc236b43c2a70570b070c",
+        "android_client_info": {
+          "package_name": "com.sarmad.ridesharingusers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW3o3SmWbVmB8n_vyXxXVbLJ-3Su9bZbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
